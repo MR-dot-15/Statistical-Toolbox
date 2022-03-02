@@ -4,7 +4,7 @@ A repo for all the codes written, figures created and slides made, while learnin
 ---
 ## A brief overview
 1. Bayesian classification with normal class-conditional
-    - Primary ref: hapter 2. Duda, Hart, Stork.
+    - Primary ref: chapter 2. Duda, Hart, Stork.
     - Bayesian decision rule
     - Construction of discriminant function
     - Examples with different Cov matrices
